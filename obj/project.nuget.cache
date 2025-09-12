@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+V7EekdeXXI=",
+  "success": true,
+  "projectFilePath": "D:\\ProjectGit\\LocalWebhookEndpoint\\LocalWebhookEndpoint.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bseck\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.9\\microsoft.aspnetcore.openapi.9.0.9.nupkg.sha512",
+    "C:\\Users\\bseck\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
