@@ -4,6 +4,22 @@ var app = builder.Build();
 
 app.UseHttpsRedirection();
 
+app.MapPost("/webhooks", (HttpContext context) =>
+{
+    Console.ForegroundColor = ConsoleColor.Green;
+    Console.WriteLine("Webhook received at " + DateTime.Now);
+
+    var headers = context.Request.Headers;
+
+    foreach (var header in headers)
+    {
+        Console.WriteLine($"{header.Key}: {header.Value}");
+    }
+
+    Console.ResetColor();
+
+    return Results.Ok(new { status = "Received" });
+});
 
 app.Run();
 
