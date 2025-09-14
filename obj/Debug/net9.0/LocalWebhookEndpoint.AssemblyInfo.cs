@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LocalWebhookEndpoint")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+675435bc093422226b9ee0ff7769976aec89e5bd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b200f8a60620e7c152ef06a26aaa246507496263")]
 [assembly: System.Reflection.AssemblyProductAttribute("LocalWebhookEndpoint")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LocalWebhookEndpoint")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

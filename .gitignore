@@ -482,3 +482,7 @@ $RECYCLE.BIN/
 
 # Vim temporary swap files
 *.swp
+obj/Debug/net9.0/LocalWebhookEndpoint.AssemblyInfo.cs
+obj/Debug/net9.0/LocalWebhookEndpoint.AssemblyInfoInputs.cache
+obj/Debug/net9.0/LocalWebhookEndpoint.AssemblyInfoInputs.cache
+obj/Debug/net9.0/LocalWebhookEndpoint.AssemblyInfo.cs
